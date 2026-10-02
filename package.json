@@ -1,0 +1,8 @@
+{
+  "name": "v2sing",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@std/yaml": "npm:@jsr/std__yaml@^1.2.0"
+  }
+}
